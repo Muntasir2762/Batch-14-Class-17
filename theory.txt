@@ -1,0 +1,21 @@
+
+
+====Integrate Bootstarp In your project===
+
+1. Using CDN Link (Content Delivery Network) (Need Internet Connections)
+2. Manually Download (No Need Internet Connections)
+
+
+=================Grid System===============
+1. Container
+
+
+====Bootstrap Colors=====
+1. primary
+2. secondary
+3. dark
+4. light
+5. info
+6. success
+7. warning
+8. danger
